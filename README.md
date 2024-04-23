@@ -30,5 +30,5 @@ DAG содержит задачи на соответствующий запро
 Исходный код прилагается.<br />
 
 Визуализация данных приемника системы реализована с помощью отчета Power Bi:
-![Image alt](https://raw.githubusercontent.com/Yulian771/rbt/main/Pwbi.png)
+!(https://raw.githubusercontent.com/Yulian771/rbt/main/Pwbi.png)
 
